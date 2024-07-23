@@ -2054,7 +2054,7 @@ input, select, textarea {
 		width: 100%;
 		z-index: 10000;
 		cursor: default;
-		height: 3.5em;
+		height: auto;
 		line-height: 3.5em;
 	}
 
@@ -2248,7 +2248,7 @@ input, select, textarea {
 
 /* Small */
 
-	@media screen and (max-width: 712px) {
+	@media screen and (max-width: 750px) {
 
 		/* Basic */
 
@@ -2455,9 +2455,10 @@ input, select, textarea {
 
 	}
 
-
-	@media screen and (max-width: 374px) {
+	/* Extra Small */
+/* 
+	@media screen and (max-width: 375px) {
 		#top {
 			padding-top: 10em;
 		}
-	}
+	} */
