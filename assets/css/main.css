@@ -2452,13 +2452,10 @@ input, select, textarea {
 					#copyright li:first-child {
 						margin-top: 0;
 					}
-
 	}
 
-	/* Extra Small */
-/* 
-	@media screen and (max-width: 375px) {
+	@media screen and (max-width: 376px) {
 		#top {
 			padding-top: 10em;
 		}
-	} */
+	}
