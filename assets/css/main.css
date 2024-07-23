@@ -2248,7 +2248,7 @@ input, select, textarea {
 
 /* Small */
 
-	@media screen and (max-width: 800px) {
+	@media screen and (max-width: 712px) {
 
 		/* Basic */
 
@@ -2417,7 +2417,7 @@ input, select, textarea {
 		/* Articles */
 
 			#top {
-				padding: 5.5em;
+				padding-top: 6.0em;
 			}
 
 				#top .image {
@@ -2453,4 +2453,11 @@ input, select, textarea {
 						margin-top: 0;
 					}
 
+	}
+
+
+	@media screen and (max-width: 374px) {
+		#top {
+			padding-top: 10em;
+		}
 	}
