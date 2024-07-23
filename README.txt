@@ -2,22 +2,12 @@ Miniport by HTML5 UP
 html5up.net | @ajlkn
 Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
 
+Hi there! My name is Declan Lin. Welcome to my digital portfolio where you can learn more about me and check out some of my technical work!
 
-A super simple responsive portfolio template. It's only a single page because hey, sometimes
-you don't need a half dozen pages to make your point.
-
-Demo images* courtesy of Unsplash, a radtastic collection of CC0 (public domain) images
-you can use for pretty much whatever.
-
-(* = Not included)
-
-Feedback, bug reports, and comments are not only welcome, but strongly encouraged :)
-
-AJ
-aj@lkn.io | @ajlkn
-
-PS: Not sure how to get that contact form working? Give formspree.io a try (it's awesome).
-
+I am an aspiring software engineer and entrepreneur looking to leverage my technical skills to provide services for clients from various audiences.
+I have a client-first mindset and love to collaborate with like-minded individuals to achieve a phenomenal level of service for clients.
+Please feel free to connect with me through LinkedIn or email me through my contact form, both of which can be found at the bottom of my digital portfolio.
+Have a great day!
 
 Credits:
 
